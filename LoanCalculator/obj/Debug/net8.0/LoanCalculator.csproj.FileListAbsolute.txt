@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\bin\Debug\net8.0\LoanCalculator.exe
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\bin\Debug\net8.0\LoanCalculator.deps.json
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\bin\Debug\net8.0\LoanCalculator.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\bin\Debug\net8.0\LoanCalculator.dll
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\bin\Debug\net8.0\LoanCalculator.pdb
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\LoanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\LoanCalculator.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\LoanCalculator.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\LoanCalculator.dll
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\refint\LoanCalculator.dll
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\LoanCalculator.pdb
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\LoanCalculator.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\UberFusion\LoanCalculator\obj\Debug\net8.0\ref\LoanCalculator.dll
