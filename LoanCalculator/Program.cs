@@ -71,3 +71,4 @@ public class LoanCalculator
         Console.WriteLine($"Task 1 (Advance) - Part 2: Loan amount for monthly payment of RM{targetMonthlyPayment3} over {termYears3} years at {annualInterestRate1}% annual interest rate: RM{loanAmount3:F2}");
     }
 }
+
